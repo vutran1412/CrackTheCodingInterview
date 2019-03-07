@@ -12,3 +12,18 @@ Bonus:
 
 write your own specs
 
+- - - -
+## How to participate
+In the directory of your choice
+
+`git clone https://github.com/vutran1412/CrackTheCodingInterview.git`
+
+Check out your own working branch
+
+`git checkout -b <your_name_branch>` 
+
+All the commits will be made to this branch
+
+When all the chapter questions are completed, The branch can be merged to the master branch after submitting a pull request.
+
+
